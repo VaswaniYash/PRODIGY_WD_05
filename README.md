@@ -34,8 +34,10 @@ A dynamic and user-friendly **Weather Web Application** that displays real-time 
 
 ## 📸 Screenshots
 
-![Weather UI](screenshots/screenshot1.png)
-![Weather Welcome Page](screenshots/screenshot2.png)
+![Weather UI]<img width="1710" alt="Weather UI" src="https://github.com/user-attachments/assets/c0a70143-5696-4008-975e-6e70bd86a65b" />
+
+![Weather Welcome Page]<img width="1358" alt="Welcome page" src="https://github.com/user-attachments/assets/8bd8f3ed-c451-4368-8503-466e15bc3971" />
+
 
 ## 🚀 Getting Started
 
