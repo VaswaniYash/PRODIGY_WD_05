@@ -50,7 +50,7 @@ A dynamic and user-friendly **Weather Web Application** that displays real-time 
 
 1. Clone this repository:
    bash
-   git clone:-
+   git clone:-https://github.com/VaswaniYash/PRODIGY_WD_05/tree/main
 
   2.	Import into your IDE as a Dynamic Web Project.
 	3.	Place the project in your webapps folder if using Tomcat.
