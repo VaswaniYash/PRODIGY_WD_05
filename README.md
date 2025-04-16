@@ -70,3 +70,13 @@ A dynamic and user-friendly **Weather Web Application** that displays real-time 
 	•	Thanks to OpenWeather for providing the free API.
 	•	UI inspiration from various weather dashboards.
     
+👨‍💻 About Me
+
+Hi, I’m Yash Vaswani, a passionate web designer & frontend developer. I enjoy building creative and responsive web projects that look good and work even better!
+
+🔗 Connect With Me • LinkedIn:- www.linkedin.com/in/yash-vaswani-17a7b4297 
+                   •   GitHub:- https://github.com/VaswaniYash
+
+📄 License
+
+This project is licensed under the MIT License.
